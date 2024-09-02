@@ -177,5 +177,5 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 document.querySelector('.resume-btn').addEventListener('click', function() {
-  window.open('https://drive.google.com/file/d/1e8Qh7SSb-bbw07HHuyVOHziIvFOa6-eu/view?usp=sharing', '_blank');
+  window.open('https://drive.google.com/file/d/1T9L37qEdsXSLsGSYN5Mzhn5HGdYl22_1/view', '_blank');
 });
